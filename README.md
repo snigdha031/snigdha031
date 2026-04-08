@@ -44,7 +44,7 @@ Interactive D3.js dashboard analyzing behavioral and performance patterns.
 ---
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=snigdha031&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=snigdha031&show_icons=true)
 
 ---
 
