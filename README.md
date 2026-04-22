@@ -28,13 +28,15 @@ FastAPI • REST APIs • Streamlit • Docker
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,azure,aws,fastapi,streamlit,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,azure,aws,fastapi,tensorflow,pytorch" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-Visualization-blue?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
+
 ---
 
 ## Projects
