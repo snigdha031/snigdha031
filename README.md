@@ -24,11 +24,16 @@ FastAPI • REST APIs • Streamlit • Docker
 ### Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,git,linux,docker,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,vscode,linux,docker" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,gcp,azure,aws,fastapi,streamlit,tensorflow,pytorch" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-blue?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 ---
 
