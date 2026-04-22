@@ -8,41 +8,28 @@ I build data-driven applications, machine learning systems, and end-to-end AI so
 
 ## Tech Stack
 
-### Languages & Core
+## Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-Programming-blue)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
-![C++](https://img.shields.io/badge/C++-Programming-lightgrey)
+### Core Skills
+Python • SQL • Data Analysis • Machine Learning • NLP • RAG Systems • Statistical Analysis • Feature Engineering
 
-### Data & Visualization
+### Data Visualization
+Plotly • Matplotlib • Seaborn • Power BI • Tableau • D3.js
 
-![Pandas](https://img.shields.io/badge/Pandas-Analysis-lightgrey)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-lightgrey)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-lightgrey)
-![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-lightgrey)
-![D3.js](https://img.shields.io/badge/D3.js-Interactive-orange)
+### Backend & Systems
+FastAPI • REST APIs • Streamlit • Docker
 
-### AI / Machine Learning
+---
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
-![NLP](https://img.shields.io/badge/NLP-TextProcessing-blue)
-![RAG](https://img.shields.io/badge/RAG-LangChain-blue)
+### Tools & Platforms
 
-### Backend & Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,git,linux,docker,aws,azure" />
+</p>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-black)
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
-![Linux](https://img.shields.io/badge/Linux-System-yellow)
-![Git](https://img.shields.io/badge/Git-VersionControl-black)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,streamlit,tensorflow,pytorch" />
+</p>
 ---
 
 ## Projects
