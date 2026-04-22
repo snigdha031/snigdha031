@@ -1,12 +1,13 @@
 # Hi, I'm Snigdha Raghavan 👋🏼
 
-Master’s student in Germany | Data Analytics & AI Engineering
+Master's student in Computer Science in Germany, with a focus on Data Analytics & AI Engineering.
 
-I build data-driven applications, machine learning systems, and end-to-end AI solutions — from data processing to deployment.
+I'm drawn to the space where data meets real decisions — building AI systems and dashboards that don't just work, but actually mean something to the people using them. 
+Whether it's a RAG chatbot that makes documents searchable or a fraud detection model that catches what humans miss, I care about the *why* behind every build.
+
+Currently exploring the intersection of AI product development and data storytelling —turning messy, complex data into experiences that are intuitive and actionable.
 
 ---
-
-## Tech Stack
 
 ## Skills & Technologies
 
