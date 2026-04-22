@@ -1,4 +1,4 @@
-# Hi, I'm Snigdha Raghavan
+# Hi, I'm Snigdha Raghavan 👋🏼
 
 Master’s student in Germany | Data Analytics & AI Engineering
 
