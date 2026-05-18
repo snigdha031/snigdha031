@@ -53,11 +53,14 @@ Plotly • Matplotlib • Seaborn • Power BI • Tableau • D3.js
 
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-orange?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-Automation-blue?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-Automation-ff4f00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-Visualization-blue?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
-
 ---
 
 # 🎯 Current Focus
