@@ -1,28 +1,47 @@
 # Hi, I'm Snigdha Raghavan 👋🏼
 
-Master's student in Computer Science in Germany, with a focus on Data Analytics & AI Engineering.
+Master’s student in Computer Science in Germany, focused on **AI Engineering, Data Analytics, and Workflow Automation**.
 
-I'm drawn to the space where data meets real decisions — building AI systems and dashboards that don't just work, but actually mean something to the people using them. 
-Whether it's a RAG chatbot that makes documents searchable or a fraud detection model that catches what humans miss, I care about the *why* behind every build.
+I enjoy building systems where AI, backend engineering, and data come together to solve real problems — from RAG applications and machine learning pipelines to resilient automation workflows and intelligent analytics systems.
 
-Currently exploring the intersection of AI product development and data storytelling —turning messy, complex data into experiences that are intuitive and actionable.
+My interests lie in designing practical AI products that are not only technically strong, but also intuitive and genuinely useful for the people interacting with them.
+
+Currently exploring:
+- AI product development
+- Workflow automation with n8n
+- RAG systems & LLM applications
+- Backend reliability engineering
+- Data storytelling & visualization
 
 ---
 
-## Skills & Technologies
+# 🚀 Skills & Technologies
 
-### Core Skills
-Python • SQL • Data Analysis • Machine Learning • NLP • RAG Systems • Statistical Analysis • Feature Engineering
+## Core Skills
 
-### Data Visualization
+Python • SQL • Machine Learning • NLP • RAG Systems • Data Analytics • Statistical Analysis • Feature Engineering • Workflow Automation
+
+---
+
+## AI & Data
+
+TensorFlow • PyTorch • LangChain • Groq • Scikit-learn • Pandas • NumPy
+
+---
+
+## Backend & Systems
+
+FastAPI • REST APIs • Docker • Supabase • PostgreSQL • n8n • Webhooks
+
+---
+
+## Data Visualization
+
 Plotly • Matplotlib • Seaborn • Power BI • Tableau • D3.js
 
-### Backend & Systems
-FastAPI • REST APIs • Streamlit • Docker
-
 ---
 
-### Tools & Platforms
+# 🛠️ Tools & Platforms
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,git,github,vscode,linux,docker" />
@@ -33,6 +52,7 @@ FastAPI • REST APIs • Streamlit • Docker
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-orange?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-Visualization-yellow?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-Visualization-blue?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -40,55 +60,13 @@ FastAPI • REST APIs • Streamlit • Docker
 
 ---
 
-## Projects
+# 🎯 Current Focus
 
-### 🔹 RAG Chatbot
-
-Context-aware PDF chatbot with semantic retrieval and reranking.
-
-* Built using LangChain + Groq (LLaMA 3.3)
-* Structured answers with source attribution
-* Optimized retrieval pipeline for accuracy
-
----
-
-### 🔹 Resume Analyzer
-
-AI-powered resume evaluation system.
-
-* Skill gap detection & scoring system
-* NLP-based parsing and analysis
-* Interactive insights via Streamlit
-
----
-
-### 🔹 Credit Card Fraud Detection
-
-Machine learning model for imbalanced classification.
-
-* Logistic Regression with threshold tuning
-* Focus on precision-recall optimization
-* Cross-validation for robust evaluation
-
----
-
-### 🔹 Data Visualization Dashboard
-
-Interactive analytics dashboard using D3.js.
-
-* Multi-view linked visualizations
-* Behavioral pattern analysis
-* Dynamic filtering and insights
-
----
-
-## What I'm focusing on
-
-* Building production-ready AI systems
-* Improving model performance & evaluation
-* Backend + ML system design
-
----
+- Building production-ready AI systems
+- Workflow automation & backend reliability
+- RAG pipelines & LLM applications
+- ML system design & evaluation
+- Scalable AI product development
 
 ## Contact
 
